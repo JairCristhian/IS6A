@@ -2,7 +2,7 @@
 applications:
 - disk_quota: 1024M
   buildpack: nodejs_buildpack
-  host: helloNodeHJGM
+  host: helloNodeJCOC
   name: helloWatsonToneDemo
   command: node app.js
   path: .
